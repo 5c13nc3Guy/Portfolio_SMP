@@ -1,0 +1,14 @@
+.highlight-box {
+  position: relative;
+  display: inline-block;
+  width: auto;
+  margin-right: 5px;
+}
+
+.highlight-box:tiny {
+  margin-right: 2px;
+}
+
+.highlight-box:small {
+  width: auto;
+}
