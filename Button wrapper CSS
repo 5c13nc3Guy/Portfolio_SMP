@@ -1,0 +1,14 @@
+.button-wrapper {
+  display: inline-block;
+  margin-top: 30px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+}
+
+.button-wrapper:tiny {
+  display: flex;
+  padding-right: 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
